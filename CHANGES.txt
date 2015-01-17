@@ -16,6 +16,7 @@
      with compiler/tools instead of just the minimal JRE; set to 'true' in
      single_node_env.sh and ambari_env.sh.
   8. Added python script to allocate memory more intelligently in Hadoop 2.
+  9. Added platforms/cdh/cdh_env.sh for deploying CDH.
 
 
 1.0.1 - 2014-12-16
